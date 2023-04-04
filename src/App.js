@@ -5,8 +5,8 @@ const App = () => {
   return ( 
     <div className="app">
     {/* <Covid/> */}
-    {/* <Formvalidation/> */}
-    <SignUpForm/>
+    <Formvalidation/>
+    {/* <SignUpForm/> */}
     </div>
     );
 }
